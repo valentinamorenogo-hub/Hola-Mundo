@@ -1,0 +1,21 @@
+body{
+    background-color: #F52776;
+    font-size: 30px;
+}
+h1{
+    color: orange;
+    display: flex;
+    justify-content: center;
+}
+h2{
+    color: blue;
+    font-weight: bold;
+}
+.parrafo {
+    color:red;
+    font-size: 40px;
+}
+#idparrafo{
+    color: purple;
+    font-weight: bold;
+}
